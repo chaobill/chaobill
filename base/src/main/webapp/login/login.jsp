@@ -8,12 +8,8 @@
 <title>登录</title>
 
 <!-- CSS -->
-<%@include file="/common/jsp/top_css.jsp"%>
 <link rel="stylesheet" href="<%=_basePath%>login/css/form-elements.css">
 <link rel="stylesheet" href="<%=_basePath%>login/css/style.css">
-
-<!-- javascript -->
-<%@include file="/common/jsp/top_script.jsp"%>
 
 <!-- Favicon and touch icons -->
 <link rel="shortcut icon" href="<%=_basePath%>login/icon/favicon.png">

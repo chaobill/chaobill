@@ -34,7 +34,7 @@ public class LoginController {
 	 * @author Chabill
 	 * @date 2016年6月13日-下午9:30:49
 	 */
-	@RequestMapping("login")
+	@RequestMapping("/login")
 	public String login(){
 		return "index";
 	}
